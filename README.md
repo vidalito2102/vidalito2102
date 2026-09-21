@@ -74,27 +74,6 @@ Objetivo: transformar información histórica en indicadores que permitan apoyar
 
 Herramientas: Excel · Power BI
 
-🔗 Ver proyecto
-
-🛒 Análisis de Ventas
-
-Análisis exploratorio de información comercial para identificar tendencias de ventas, comportamiento por región, productos y categorías.
-
-Objetivo: identificar patrones y oportunidades que puedan contribuir a mejorar el desempeño comercial.
-
-Herramientas: SQL · Python · Power BI
-
-🔗 Ver proyecto
-
-👥 Análisis de Recursos Humanos
-
-Análisis de información de empleados para explorar variables relacionadas con ingresos, antigüedad, departamentos y compensaciones.
-
-Objetivo: utilizar los datos para identificar patrones relevantes dentro de la información de Recursos Humanos.
-
-Herramientas: SQL · Python · Power BI
-
-🔗 Ver proyecto
 
 🔎 ¿Qué hago como Analista de Datos?
 Datos
@@ -136,8 +115,8 @@ buscando demostrar no solamente el manejo de herramientas, sino también mi capa
 
 📫 Contacto
 
-💼 LinkedIn: [Tu perfil de LinkedIn]
+💼 LinkedIn: www.linkedin.com/in/vidal-delangel-dataanalyst
 
-📧 Email: [Tu correo electrónico]
+📧 Email: ing.vidaldelangel21@gmail.com
 
-🐙 GitHub: [Tu perfil de GitHub]
+🐙 GitHub: vidalito2102
